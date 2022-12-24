@@ -1,13 +1,13 @@
 <p align="center">
-<img src="https://telegra.ph/file/6ab4daac226292a112540.jpg" alt="YUKI BOT" width="500"/>
+<img src="https://telegra.ph/file/6ab4daac226292a112540.jpg" alt="FZIX BOT" width="500"/>
 
 
 </p>
 <p align="center">
-<a href="#"><img title="FZIXGAMESTORE" src="https://img.shields.io/badge/YUKI BOT MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="FZIXGAMESTORE" src="https://img.shields.io/badge/FZIXGAMESTORE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/saipulanuar/YukiBot2022"><img title="Author" src="https://img.shields.io/badge/Author-KINGOFBEAR-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/saipulanuar/YukiBot2022"><img title="Author" src="https://img.shields.io/badge/Author-FZIXGAMESTORE-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/"><img title="Followers" src="https://img.shields.io/github/followers/saipulanuar?color=blue&style=flat-square"></a>

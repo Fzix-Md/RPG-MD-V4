@@ -10,7 +10,7 @@
 <a href="https://github.com/saipulanuar/YukiBot2022"><img title="Author" src="https://img.shields.io/badge/Author-FZIXGAMESTORE-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/"><img title="Followers" src="https://img.shields.io/github/followers/saipulanuar?color=blue&style=flat-square"></a>
+<a href="https://github.com/"><img title="Followers" src="https://img.shields.io/github/followers/Fzix-Md?color=blue&style=flat-square"></a>
 <a href="https://github.com/"><img title="Stars" src="https://img.shields.io/github/stars/saipulanuar/YukiBot2022?color=red&style=flat-square"></a>
 <a href="https://github.com//network/members"><img title="Forks" src="https://img.shields.io/github/forks/saipulanuar/YukiBot2022?color=red&style=flat-square"></a>
 </P>
